@@ -1,8 +1,6 @@
 # Electricity-Load-Forecasting-using-Deep-Learning
 It's a machine learning project completed for my MSc course Data Mining and Machine Learning
 
-Electricity Load Forecasting using Deep Learning
-
 Overview
 
 This project develops a deep learning model, specifically using Long Short-Term Memory (LSTM) networks, to forecast electricity consumption based on historical load data for multiple clients. The goal is to accurately predict future energy demand at a 15-minute resolution.
